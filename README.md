@@ -20,11 +20,3 @@ A aplicação consome uma **API de filmes**, realiza o **tratamento de dados JSO
 
 ---
 
-## 🚀 Como executar
-```bash
-# Clone o repositório
-git clone https://github.com/seuusuario/java-screenmatch.git
-
-# Abra no IntelliJ IDEA ou VS Code com extensão Java
-# Execute a classe principal
-Main.java
